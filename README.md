@@ -16,7 +16,7 @@ The first thing you need to do is register as a new user, without this you will 
 1. Clone repository
 
     ```txt
-    git clone https://github.com/patryk-j/vinyl-world-fe
+    git clone https://github.com/patryk-j/wynajem
     ```
 
     
