@@ -1,0 +1,38 @@
+.offer-h2 {
+  padding-top: 40px;
+  font-size: 20px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 100;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.h2-alert {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 25px;
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.offer {
+  max-width: 80%;
+  padding: 10px 200px;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photo-offer {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 320px;
+  width: 480px;
+}
+.button-price {
+  padding-bottom: 70px;
+  margin-left: auto;
+  margin-right: auto;
+}

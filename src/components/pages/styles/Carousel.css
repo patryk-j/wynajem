@@ -1,0 +1,37 @@
+.carouselInner {
+  border-radius: 20px;
+  height: 425px;
+  width: 640px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.carouselInner .left {
+  flex: 5%;
+  display: grid;
+  place-items: center;
+  color: white;
+  cursor: pointer;
+}
+
+.carouselInner .center {
+  flex: 60%;
+  height: 100%;
+  display: grid;
+  place-items: center;
+  text-align: justify;
+  text-align-last: center;
+}
+
+.carouselInner .right {
+  flex: 5%;
+  padding-left: 100px;
+  display: grid;
+  place-items: center;
+  color: white;
+  cursor: pointer;
+}
